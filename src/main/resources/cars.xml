@@ -1,0 +1,16 @@
+<Cars>
+	<Car CarId="1">
+		<CarInfo Name="Corrolla" Make="Toyota">
+			<Model>2015</Model>
+		</CarInfo>
+		<Price>21000</Price>
+		<Type>Sedan</Type>
+	</Car>
+	<Car CarId="2">
+		<CarInfo Name="Civic" Make="Honda">
+			<Model>2018</Model>
+		</CarInfo>
+		<Price>32000</Price>
+		<Type>Hatchback</Type>
+	</Car>
+</Cars>

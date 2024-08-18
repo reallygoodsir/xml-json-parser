@@ -1,4 +1,4 @@
-package org.xml.json.parser.example.utils;
+package cars.utils;
 
 import java.io.File;
 import java.net.URISyntaxException;
